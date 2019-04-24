@@ -1,2 +1,2 @@
 # pyfuck
-brainfuck copmiler w/ ARM v8-A assembler
+brainfuck compiler w/ ARM v8-A assembler
